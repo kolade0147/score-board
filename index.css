@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    text-align: center;
+    }
+    .container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    }
+    .scor{
+      margin-top: 50px;
+    }
+    h1{
+      color: #EEEEEE;
+      line-height: 36px;
+      font-weight: 700;
+      font-size: 40px;
+    }
+    .text{
+      width: 130px;
+      height: 120px;
+      background: #080001;
+      border-radius: 5px;
+    }
+    .text-one{
+      color: #F94F6D;
+      font-family: 'Cursed Timer ULiL';
+      font-weight: 400;
+      font-size: 90px;
+      text-align: center;
+      line-height: 100px;
+      padding-top: 20px;
+    }
+    .scor-btn{
+      background: #1B244A;
+      border: 2px solid #9AABD8;
+      color: #9AABD8;
+      margin-top: 20px;
+      border-radius: 3px;
+    }
+    .btn{
+      display: flex;
+      justify-content: space-around;
+      height: 45px;
+      
+      
+    }
